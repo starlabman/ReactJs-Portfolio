@@ -11,38 +11,38 @@ const Portfolio = () => {
     {
       id: 1,
       src: api,
-      link: 'https://crypto-info-api.herokuapp.com/',
-      repo: 'https://github.com/rahulkarda/crypto-info-api'
+      link: 'https://launch-market.vercel.app/',
+      repo: 'https://github.com/starlabman/Marketplace-Launchpad'
     },
     {
       id: 2,
       src: webpostman,
       link: 'https://webpostman.netlify.app/',
-      repo: 'https://github.com/rahulkarda/Web-Postman'
+      repo: 'https://github.com/starlabman/Candy-Responsive-Machine-ui'
     },
     {
       id: 3,
-      src: apod,
-      link: 'https://apodbyrahul.netlify.app/',
-      repo: 'https://github.com/rahulkarda/NASA-APOD'
+      src: NFTSite,
+      link: 'http://nft-one-page.vercel.app/',
+      repo: 'https://github.com/starlabman/NFT_OnePage/'
     },
     {
       id: 4,
       src: waveportal,
-      link: 'https://waveatrahul.netlify.app/',
-      repo: 'https://github.com/rahulkarda/Wave-Portal'
+      link: 'https://starlabman.netlify.app/',
+      repo: 'https://github.com/rahulkarda/Wave-Portal/'
     },
     {
       id: 5,
       src: nftportal,
-      link: 'https://nftportalbyrahul.netlify.app/',
-      repo: 'https://github.com/rahulkarda/NFT-Portal'
+      link: 'https://gdacademy.vercel.app/',
+      repo: 'https://github.com/starlabman/gdacademy.sa-creation.com/'
     },
     {
       id: 6,
-      src: iptracker,
-      link: 'https://trackmyip.netlify.app/',
-      repo: 'https://github.com/rahulkarda/IP-Address-Tracker'
+      src: Porfolio,
+      link: 'https://portfolio-responsive-eight.vercel.app/',
+      repo: 'https://github.com/starlabman/Portfolio-Responsive-reactjs/'
     },
   ];
 
