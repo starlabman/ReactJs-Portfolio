@@ -17,12 +17,12 @@ const Portfolio = () => {
     {
       id: 2,
       src: webpostman,
-      link: 'https://webpostman.netlify.app/',
+      link: 'https://candy-machine-ten.vercel.app/',
       repo: 'https://github.com/starlabman/Candy-Responsive-Machine-ui'
     },
     {
       id: 3,
-      src: NFTSite,
+      src: apod,
       link: 'http://nft-one-page.vercel.app/',
       repo: 'https://github.com/starlabman/NFT_OnePage/'
     },
@@ -30,7 +30,7 @@ const Portfolio = () => {
       id: 4,
       src: waveportal,
       link: 'https://starlabman.netlify.app/',
-      repo: 'https://github.com/rahulkarda/Wave-Portal/'
+      repo: 'https://github.com/starlabman/PortfolioPage/'
     },
     {
       id: 5,
@@ -40,7 +40,7 @@ const Portfolio = () => {
     },
     {
       id: 6,
-      src: Porfolio,
+      src: iptracker,
       link: 'https://portfolio-responsive-eight.vercel.app/',
       repo: 'https://github.com/starlabman/Portfolio-Responsive-reactjs/'
     },
