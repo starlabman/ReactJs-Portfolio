@@ -102,13 +102,13 @@ const Experience = () => {
       id: 14,
       src: laravel,
       title: "Laravel",
-      style: "shadow-purple-500",
+      style: "shadow-red-500",
     },
     {
       id: 15,
       src: xamarin,
       title: "Xamarin",
-      style: "shadow-purple-500",
+      style: "shadow-blue-500",
     },
     // {
     //   id: 16,
