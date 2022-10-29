@@ -12,6 +12,12 @@ import node from "../assets/node.png";
 import express from "../assets/express.png"
 import mongodb from "../assets/mongodb.png"
 import redux from "../assets/redux.png"
+import php from "../assets/php.png"
+import laravel from "../assets/laravel.png"
+import solidity from "../assets/solidity.png"
+import xamarin from "../assets/xamarin.png"
+import java from "../assets/java.png"
+import python from "../assets/python.png"
 const Experience = () => {
   const techs = [
     {
@@ -86,6 +92,42 @@ const Experience = () => {
       title: "Redux",
       style: "shadow-purple-500",
     },
+    {
+      id: 13,
+      src: php,
+      title: "PHP",
+      style: "shadow-purple-500",
+    },
+    {
+      id: 14,
+      src: laravel,
+      title: "Laravel",
+      style: "shadow-purple-500",
+    },
+    {
+      id: 15,
+      src: xamarin,
+      title: "Xamarin",
+      style: "shadow-purple-500",
+    },
+    // {
+    //   id: 16,
+    //   src: solidity,
+    //   title: "Solidity",
+    //   style: "shadow-purple-500",
+    // },
+    // {
+    //   id: 17,
+    //   src: python,
+    //   title: "Python",
+    //   style: "shadow-purple-500",
+    // },
+    // {
+    //   id: 18,
+    //   src: java,
+    //   title: "JAVA",
+    //   style: "shadow-purple-500",
+    // },
   ];
 
   return (
