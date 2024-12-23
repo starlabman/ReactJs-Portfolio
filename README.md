@@ -2,7 +2,7 @@
 
 ## **Hey, I'm Laboré!** 👋
 
-I'm a JavaScript Developer working with React and TypeScript. I enjoy writing articles and contributing to open source.
+I'm a DevRel & Community Builder also Lead web3.js Ambasador working with React, TypeScript, web3.js and building community. I enjoy writing articles and contributing to open source.
 
 - 🌱 Looking to learn Rust
 - 🔭 Working on open source projects
